@@ -5,6 +5,12 @@
 **Commit Description:**
 
 Developed a Language School Management System to simplify the management of students, courses, and instructors.
+**Project Overview**
+The Language School Management System is a web-based application designed to make the management of a language institute easier, faster, and more organized.
+
+The main purpose of this website is to manage student information, courses, instructors, and other important academic details in one place. It provides a user-friendly interface that helps administrators handle daily school activities efficiently.
+
+Our goal is to reduce manual paperwork, save time, and make information management simple and convenient.
 
 **Features Added:**
 - Created a responsive home page with a clean user interface.
