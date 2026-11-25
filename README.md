@@ -1,4 +1,4 @@
-# CA-2-PROJECT
+# CA-1-PROJECT
 **Commit Title:**
 `Complete Language School Management System with Dashboard and CRUD Features`
 
